@@ -1,3 +1,4 @@
 First line in file1.txt
 Second line in file1.txt
 Third line 
+fourth line
